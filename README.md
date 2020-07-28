@@ -14,6 +14,13 @@
 
 * Express JS Crash Course (1 hour 14 min) https://www.youtube.com/watch?v=L72fhGm1tfE
 
-## Files
+## Important concepts
 
-* If you work along with the tutorial you will build the following folders and files.
+* Some more in-depth application concepts expanding on HTML, CSS, JavaScript, and Node.js
+  * JSON API
+  * Rendering templates on a server
+  * Static pages
+
+## Link to repository
+
+* Turn a link to your GitHub repository with the site files in Canvas.
