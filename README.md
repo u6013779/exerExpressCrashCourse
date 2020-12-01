@@ -13,6 +13,8 @@
 ## Link to tutorial
 
 * Express JS Crash Course (1 hour 14 min) https://www.youtube.com/watch?v=L72fhGm1tfE
+  * 0:00 Background info
+  * 5:00 Basic server example
 
 ## Important concepts
 
