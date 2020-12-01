@@ -15,6 +15,22 @@
 * Express JS Crash Course (1 hour 14 min) https://www.youtube.com/watch?v=L72fhGm1tfE
   * 0:00 Background info
   * 5:00 Basic server example
+  * 6:00 Basic route handline (some things you can do)
+  * 7:30 Express middleware (functions that have access to the request and response objects)
+  * 8:40 Install Node.js (should already be done from previous tutorial)
+  * 8:55 Express documentation
+  * 9:20 Postman (You'll need to sign up for an account.)
+  * 9:55 npm init
+  * 10:20 npm install express
+  * 10:30 index.js
+  * 15:05 npm install -D nodemon
+  * 17:40 index.html
+  * 19:15 set static folder (public)
+  * 21:48 create route
+  * 23:25 Postman members
+   * In Postman in the Get started with Postman screen you need to choose Import an existing file and close the popup.
+   * Then you need to click the + next to New and Import to create a new request
+  * 28:20 npm install moment
 
 ## Important concepts
 
