@@ -30,7 +30,11 @@
   * 23:25 Postman members
    * In Postman in the Get started with Postman screen you need to choose Import an existing file and close the popup.
    * Then you need to click the + next to New and Import to create a new request
+   * I downloaded the application from Postman
   * 28:20 npm install moment
+  * 37:50 routes/api folder member.js
+  * When trying out the Postman requests for POST and PUT requests set the Headers to Content-Type to application/json and the body to the json object shown in the video. (He moves through it pretty quickly in the video.)
+  * Remember when you're turning in your files you don't want to include the node_modules folder. (It will make the submission unnecessarily large.) Recall from the Node.js crash course that the package.json file stores the list of dependencies for the application. Running npm install in the directory with the package.json file will install all needed dependencies to run the application using node index.
 
 ## Important concepts
 
